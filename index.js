@@ -1,4 +1,3 @@
-import "./styles.css";
 const greeting = document.getElementById("js-greeting");
 
 const colors = ["mistyrose", "darkorange", "aquamarine", "cornflowerblue"];
